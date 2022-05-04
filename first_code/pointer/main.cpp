@@ -25,5 +25,9 @@ int main(){
 
     cout << name << endl;
 
+    //nullptr
+
+    int *p_number {nullptr}; //size 8byte
+
     return 0;
 }

@@ -17,6 +17,6 @@ int main(){
     surprise[0] = 'N';
     cout << surprise[0] << endl;
     cout << surprise << endl;
-    
+     
     return 0;
 }
